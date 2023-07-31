@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Hassanjavaid1/ReactWeatherApp.git/static/css/main.6fcf2988.css",
-    "main.js": "/Hassanjavaid1/ReactWeatherApp.git/static/js/main.45442af1.js",
-    "static/js/787.13d76ca7.chunk.js": "/Hassanjavaid1/ReactWeatherApp.git/static/js/787.13d76ca7.chunk.js",
-    "static/media/background.jpg": "/Hassanjavaid1/ReactWeatherApp.git/static/media/background.8d41f17dad8f77d29a7c.jpg",
-    "index.html": "/Hassanjavaid1/ReactWeatherApp.git/index.html",
-    "main.6fcf2988.css.map": "/Hassanjavaid1/ReactWeatherApp.git/static/css/main.6fcf2988.css.map",
-    "main.45442af1.js.map": "/Hassanjavaid1/ReactWeatherApp.git/static/js/main.45442af1.js.map",
-    "787.13d76ca7.chunk.js.map": "/Hassanjavaid1/ReactWeatherApp.git/static/js/787.13d76ca7.chunk.js.map"
+    "main.css": "/Hassanjavaid1/React_WeatherApp.git/static/css/main.14145101.css",
+    "main.js": "/Hassanjavaid1/React_WeatherApp.git/static/js/main.28adf438.js",
+    "static/js/787.13d76ca7.chunk.js": "/Hassanjavaid1/React_WeatherApp.git/static/js/787.13d76ca7.chunk.js",
+    "static/media/background.jpg": "/Hassanjavaid1/React_WeatherApp.git/static/media/background.8d41f17dad8f77d29a7c.jpg",
+    "index.html": "/Hassanjavaid1/React_WeatherApp.git/index.html",
+    "main.14145101.css.map": "/Hassanjavaid1/React_WeatherApp.git/static/css/main.14145101.css.map",
+    "main.28adf438.js.map": "/Hassanjavaid1/React_WeatherApp.git/static/js/main.28adf438.js.map",
+    "787.13d76ca7.chunk.js.map": "/Hassanjavaid1/React_WeatherApp.git/static/js/787.13d76ca7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fcf2988.css",
-    "static/js/main.45442af1.js"
+    "static/css/main.14145101.css",
+    "static/js/main.28adf438.js"
   ]
 }
