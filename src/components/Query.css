@@ -1,0 +1,161 @@
+@media(max-width: 1070px){
+    #navbar{
+     gap: 9rem  !important;
+    } 
+    #main_content{
+        width: 33%  !important;
+    }
+}
+@media(max-width:747px){
+    #navbar{
+        gap: 4rem !important;
+    }
+    h1{
+        font-size: 25px !important;
+    }
+    h2{
+        font-size: 30px !important;
+    }
+    #UserInput{
+        height: 2rem !important;
+    width: 16rem !important;
+    }
+    #btn{
+        width: fit-content !important;
+        height: 2.3rem !important;
+        border-radius: 4px !important;
+        font-size: 17px !important;
+    }
+    #heading{
+        font-size: 20px !important;
+    }
+    #city{
+        font-size: 24px !important;
+    }
+    #main_content{
+        width: 36% !important; 
+    }
+    #air_condition{
+        gap: 1rem !important;
+        font-size: 17px !important;
+    }
+}
+@media(max-width:565px){
+    #navbar{
+        gap: 2rem !important;
+        margin-top: 10px  !important;
+    }
+    h1{
+        font-size: 18px !important;
+    }
+    h2{
+        font-size: 21px !important;
+    }
+    #UserInput{
+        height: 1.8rem !important;
+        width: 10rem !important;
+        font-size: 14px  !important;
+    }
+    .fa-solid{
+        margin-top: 11px !important;
+    margin-left: 6px !important;
+    }
+    #btn{
+        width: 59px !important;
+    height: 2rem !important;
+    border-radius: 4px !important;
+    font-size: 15px !important;
+    margin-left: 5px !important;
+    }
+    #heading{
+        font-size: 12px !important;
+        word-spacing: 0px !important;
+    }
+    #city{
+        font-size: 15px !important;
+    }
+    #main_content{
+        width: 46% !important;
+        height: 22rem !important;
+    }
+    #air_condition{
+        gap: 0.1rem !important;
+        font-size: 13px !important;
+    }
+    #sunPic{
+        width: 68% !important;
+    height: 42% !important;
+    }
+    #temp{
+        font-size: 3rem !important;
+    }
+    .submain{
+        gap: 2rem !important;
+    }
+    #max_temp{
+      font-size: 17px !important;
+    }
+    #min_temp{
+        font-size: 17px !important;
+    }
+    #feels_like{
+        font-size: 23px !important;
+    }
+    #temp_like{
+        font-size: 21px !important;
+    }
+}
+     
+  
+@media(max-width:390px){
+    #navbar{
+        gap: 2rem !important;
+        margin-top: 10px  !important;
+    }
+    h1{
+        font-size: 15px !important;
+    margin-top: -1rem !important;
+    margin-left: 5px !important;
+    }
+    h2{
+        font-size: 21px !important;
+    }
+    #UserInput{
+        height: 1.8rem !important;
+        width: 10rem !important;
+        font-size: 14px  !important;
+    }
+    .fa-solid{
+        margin-top: 11px !important;
+    margin-left: 6px !important;
+    }
+    #btn{
+        width: 59px !important;
+    height: 2rem !important;
+    border-radius: 4px !important;
+    font-size: 15px !important;
+    position: relative !important;
+    top: -34px !important;
+    left: 10rem !important;
+    margin-left: 11px !important;
+    }
+    #heading{
+        font-size: 12px !important;
+        word-spacing: 0px !important;
+    }
+    #city{
+        font-size: 15px !important;
+    }
+    #main_content{
+        width: 74% !important;
+    }
+    #air_condition{
+        gap: 0.9rem !important;
+        font-size: 13px !important;
+        margin-bottom: 0rem !important;
+    }
+    #sunPic{
+        width: 68% !important;
+    height: 42% !important;
+    }
+}
