@@ -13,5 +13,5 @@ The app is developed using React.js and vanilla CSS and yeah react toploader bar
 
 ## 💻ReactWeatherApp Live Demo!
 
-    https://hassanjavaid1.github.io/ReactWeatherApp/
+   https://hassanjavaid1.github.io/ReactWeatherApp/
    
